@@ -1,11 +1,11 @@
 # <center> Hi 👋 I'm Andres Cardona </center>
 
-## <center> Computer Science Student  </center>
+## <center> Estudiante de Ingeniería Informática  </center>
 
-- 🌱 I’m currently learning Kotlin 
-- 📫 How to reach me: [cardona.duarte@outlook.com](cardona.duarte@outlook.com)
+- 🌱 Actualmente estoy aprendiendo Python   
+- 📫 Como contactarme: [afcardonaduarte@gmail.com](afcardonaduarte@gmail.com)
 
-## Lenguage and tools 
+## Tecnologías y herramientas
 
 <div >
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="Texto alternativo" width="50" height="55">
